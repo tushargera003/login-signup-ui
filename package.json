@@ -1,6 +1,6 @@
 {
     "name": "login-signup-ui",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A reusable, responsive, and fully customizable React component library with 10 modern login/signup page designs.",
     "main": "src/index.js",
     "repository": {
